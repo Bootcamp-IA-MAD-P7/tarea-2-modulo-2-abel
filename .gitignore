@@ -6,9 +6,7 @@ wheels/
 
 # Archivos dataset
 data/
-archivo.csv
 Salary_dataset.csv
-example_dataset.csv
 
 # Entorno virtual
 .venv/
@@ -24,12 +22,6 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb_checkpoints
-*.pyx
-*.ipynb
 
 # Archivos de configuración de IDE
 # .vscode/
