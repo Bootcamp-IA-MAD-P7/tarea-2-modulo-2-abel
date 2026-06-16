@@ -1,10 +1,62 @@
 # Python-generated files
-__pycache__/
-*.py[oc]
 build/
 dist/
 wheels/
 *.egg-info
 
-# Virtual environments
+# Archivos dataset
+data/
+archivo.csv
+Salary_dataset.csv
+example_dataset.csv
+
+# Entorno virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.py[oc]
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.pyx
+*.ipynb
+
+# Archivos de configuración de IDE
+# .vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Archivos de datos
+# *.csv
+# *.xlsx
+
+# Archivos de log y temporales
+logs/
+*.log
+*.tmp
+*.temp
+
+# Archivos de salida
+output/
+exports/
+*.png
+*.jpg
+*.pdf
+
+# Archivos de entorno
+.env
 .venv
+.envrc

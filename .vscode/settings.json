@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "jupyter.jupyterCommandLineArguments": [
+    "--IPKernelApp.exec_lines=['%load_ext autoreload', '%autoreload 2']"
+  ]
+}
